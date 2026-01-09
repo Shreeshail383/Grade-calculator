@@ -7,4 +7,4 @@ elif marks>=75 and marks<=90:
 elif marks>=50 and marks<=74:
     print("You secured a grade 'C' ")
 else:
-    print("Yor are failed!!")
+    print("Yor are failed!")
